@@ -1,2 +1,1 @@
-# WS
-Weighted Community Detection Algorithm for Signed Multilayer Brain Networks
+# Weighted Community Detection Algorithm for Signed Multilayer Brain Networks
